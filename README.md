@@ -9,6 +9,6 @@ line
 # Thats Good For You Lera
 _Welcome to DEUTSCHLAND_ 
 ### The PAPER LAND 
-# colour of DEUTSCHLAND is GRAU  
-# title 
-# i m good 
+# colour of DEUTSCHLAND is GRAU
+# it's not always gray
+
